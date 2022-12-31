@@ -11,10 +11,11 @@
   
 - ⚡ Fun fact **3 years experiance back-end developer without real-production project (got deleted)**  
   
-<h3 align="left">Connect with me 🤝</h3>  
+<h3 align="left">Contact with me 🤝</h3>  
 <p align="left">  
 <a href="https://twitter.com/kemzops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemzops" height="30" width="40" /></a>  
 <a href="https://discord.gg/VT9tdkFSRW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VT9tdkFSRW" height="30" width="40" /></a>  
+<a href="https://bassam.social/@KemzoPS" target="blank"><img align="center" src="https://media.bassam.social/3c22986e-e2db-43e4-a7de-6abd0db31628/bassam-main-logo.svg" alt="VT9tdkFSRW" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools 👨‍💻</h3>  
