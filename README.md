@@ -31,6 +31,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?logo=openjdk&logoColor=black&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
@@ -54,6 +55,8 @@
 <h3 align="left">Databases 🗃</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="Supabase" src="https://img.shields.io/badge/SupaBase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img alt="PocketBase" src="https://img.shields.io/badge/PocketBase-B8DBE4?logo=pocketbase&logoColor=black&style=for-the-badge" />
   <img alt="SQlite" src="https://img.shields.io/badge/SQlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
