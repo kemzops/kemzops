@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [**Kemzo Development Studio**](https://github.com/KemzoStudio)  
+- 🔭 I’m currently working on [**ALSarmad**](https://github.com/Alsarmad)  
 - 🤝 I’m looking to collaborate on **Foss Projects**
-- 🌱 I’m currently learning **NestJS, SvelteKIT**  
+- 🌱 I’m currently learning **Svelte, SvelteKIT**  
 - 💬 Ask me anything about **Nodejs, Electronjs, Expressjs, Linux, Foss**  
 - <img alt="Arch Linux" src="https://img.shields.io/badge/I USE ARCH BTW-47848F?logo=arch+linux&logoColor=white&style=flat" />
 
