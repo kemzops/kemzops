@@ -11,8 +11,8 @@
 
 <h3 align="left">Contact with me 🤝</h3>
 <p align="left">  
- <a href="https://discord.gg/VT9tdkFSRW" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/Kemzo Development Studio-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+ <a href="https://discord.gg/NeV3XEwXXw" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord Server-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://twitter.com/kemzops" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/My Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
