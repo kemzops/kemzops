@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Rust**  
 - 💬 Ask me anything about **Nodejs, Electronjs, Expressjs, Linux, Foss**  
 - <img alt="Arch Linux" src="https://img.shields.io/badge/I USE ARCH BTW-47848F?logo=arch+linux&logoColor=white&style=flat" />
-
+- [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 <h3 align="left">Contact with me 🤝</h3>
 <p align="left">  
  <a href="https://discord.gg/NeV3XEwXXw" target="_blank">
