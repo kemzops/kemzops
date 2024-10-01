@@ -1,4 +1,4 @@
-<!--
+
 <h3 align="center">Hi 👋, I'm Aziz Jaber (Kemzo)</h3>  
 <h3 align="center">Self-Taught back-end developer. Always learning and improving. Programming is my hobby!</h3>  
 
@@ -83,5 +83,4 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemzops&show_icons=true&theme=dark&locale=en" alt="kemzops" /></p>  
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemzops&show_icons=true&theme=dark&locale=en" alt="kemzops" /></p>
