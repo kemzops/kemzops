@@ -1,10 +1,9 @@
 
 <h3 align="center">Hi 👋, I'm Aziz Jaber (Kemzo)</h3>  
-<h3 align="center">Self-Taught back-end developer. Always learning and improving. Programming is my hobby!</h3>  
+<h3 align="center">Self-Taught back-end developer. Computer Science Student. Programming is my hobby!</h3>  
 
 <br>
 
-- 🔭 I’m currently working on [**ALSarmad**](https://github.com/Alsarmad)  
 - 🤝 I’m looking to collaborate on **Foss Projects**
 - 🌱 I’m currently learning **Rust**  
 - 💬 Ask me anything about **Nodejs, Electronjs, Expressjs, Linux, Foss**  
