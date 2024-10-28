@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Aziz Jaber (Kemzo)</h3>  
-<h3 align="center">Self-Taught back-end developer. Computer Science Student. Programming is my hobby!</h3>  
+<h3 align="center">Self-Taught back-end developer. Computer Science Apprenticeship Student. Programming is my hobby!</h3>  
 
 <br>
 
@@ -9,15 +9,6 @@
 - 💬 Ask me anything about **Nodejs, Electronjs, Expressjs, Linux, Foss**  
 - <img alt="Arch Linux" src="https://img.shields.io/badge/I USE ARCH BTW-47848F?logo=arch+linux&logoColor=white&style=flat" />
 - [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-<h3 align="left">Contact with me 🤝</h3>
-<p align="left">  
- <a href="https://discord.gg/NeV3XEwXXw" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord Server-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://twitter.com/kemzops" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/My Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
- </a>
-</p>
 
 <a href="https://discord.com/users/419177770434691082" target="_blank">
 	<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/419177770434691082?bg=1f1f1f&borderRadius=5px&idleMessage=EMPTY+;D">
